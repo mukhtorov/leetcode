@@ -1,4 +1,4 @@
-# Ishga kirish uchun 1000ta masala.
+# 1000 leetcode exercise for tech interview.
 
 This repo contains interview preperation leetcode exercise. Don't apply to jobs until you got all these exercises. This repo divided into three module. Junior, Middle and Senior.
 
