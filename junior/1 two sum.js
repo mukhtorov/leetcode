@@ -21,7 +21,7 @@ function solution1() {
   return res;
 }
 
-// Solution - 2 /
+// Solution - 2
 // Runtime 77ms / 47.98%
 // Memory 41.57mb / 98.33%
 function solution2() {
