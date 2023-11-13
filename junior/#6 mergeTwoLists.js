@@ -1,4 +1,4 @@
-// link - https://leetcode.com/problems/merge-two-sorted-lists
+// ex:21 - https://leetcode.com/problems/merge-two-sorted-lists
 
 // Solution - 1
 // Runtime 64ms / 27.78%
