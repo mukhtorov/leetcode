@@ -1,4 +1,4 @@
-// link - https://leetcode.com/problems/two-sum/description/
+// ex:1 - https://leetcode.com/problems/two-sum/description/
 
 // Solution - 1 /
 // Runtime 90ms / 23.7%
