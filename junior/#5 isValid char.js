@@ -1,4 +1,4 @@
-// link - https://leetcode.com/problems/valid-parentheses/
+// ex:20 - https://leetcode.com/problems/valid-parentheses/
 
 // Solution - 1
 // Runtime 56ms / 53.08%
