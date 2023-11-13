@@ -1,4 +1,4 @@
-// link - https://leetcode.com/problems/longest-common-prefix/description/
+// ex:14 - https://leetcode.com/problems/longest-common-prefix/description/
 
 // Solution - 1
 // Runtime 61ms / 23.89%
