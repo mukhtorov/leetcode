@@ -1,4 +1,4 @@
-// link - https://leetcode.com/problems/remove-element/
+// ex:27 - https://leetcode.com/problems/remove-element/
 
 // Solution - 1
 // Runtime 49ms / 73.29%
