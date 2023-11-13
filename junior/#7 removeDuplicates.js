@@ -1,4 +1,4 @@
-// link - https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+// ex:26 - https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 // Solution - 1
 // Runtime 122ms / 12.12%
