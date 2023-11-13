@@ -1,4 +1,4 @@
-// link - https://leetcode.com/problems/palindrome-number/
+// ex:9 - https://leetcode.com/problems/palindrome-number/
 
 // Solution - 1 /
 // Runtime 161ms / 14.15%
