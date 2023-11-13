@@ -11,8 +11,8 @@ var solution1 = function (a, b) {
 // but large numbers, it doesn't work
 
 // Solution - 1
-// Runtime 46ms / 84.06%
-// Memory 41.43MB / 90.01%
+// Runtime 47ms / 93.74%
+// Memory 41.95MB / 90.89%
 var solution2 = function (a, b) {
   return (BigInt(`0b${a}`) + BigInt(`0b${b}`)).toString(2);
 };
