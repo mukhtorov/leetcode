@@ -43,4 +43,4 @@ var solution2 = function (nums, k) {
 console.log(solution2([-8, 3, -5, -3, -5, -2], 6)); // 22
 console.log(solution2([-2, 9, 9, 8, 4], 5)); // 32
 console.log(solution2([4, 2, 3], 1)); // 5
-// console.log(solution1([2, -3, -1, 5, -4], 2)); // 13
+console.log(solution1([2, -3, -1, 5, -4], 2)); // 13
