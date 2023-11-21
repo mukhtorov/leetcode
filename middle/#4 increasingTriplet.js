@@ -26,13 +26,13 @@ var solution1 = function (nums) {
 // Runtime - 67ms 82.13%
 // Memory - 60MB 51.23%
 var solution2 = function (nums) {
-  let firstNum = Infinity;
-  let secoundNum = Infinity;
+  let min = Infinity;
+  let max = Infinity;
 
   for (let currentNum of nums) {
-    if (currentNum > secoundNum) return true;
-    if (currentNum > firstNum) secoundNum = currentNum;
-    else firstNum = currentNum;
+    if (currentNum > max) return true;
+    if (currentNum > min) max = currentNum;
+    else min = currentNum;
   }
   return false;
 };
