@@ -2,7 +2,7 @@
 
 // Solution - 1
 // Runtime - 61ms 65%
-// Memory - 44.28MB 52%
+// Memory - 44.28MB 83%
 
 var solution1 = function (nums) {
   nums.sort((a, b) => b - a);
